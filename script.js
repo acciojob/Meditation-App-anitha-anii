@@ -1,5 +1,5 @@
 //your JS code here. If required.
-const app = document.getElementById("app");
+const app = document.querySelector(".app");
 const videoPlayer = document.getElementById("videoPlayer");
 const audioPlayer = document.getElementById("audioPlayer");
 const sound1Button = document.getElementById("sound1");
